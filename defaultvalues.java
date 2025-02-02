@@ -20,12 +20,3 @@ class defaultvalues
 }
  }
   
-output:
-The default values of primitive datatypes
-The default values of byte:0
-The default values of int:0
-The default values of long:0
-The default values of float:0.0
-The default values of double:0.0
-The default values of boolean:false
-The default values of char:
